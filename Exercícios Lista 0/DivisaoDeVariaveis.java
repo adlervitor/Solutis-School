@@ -8,6 +8,6 @@ public class DivisaoDeVariaveis {
 		int c = a / b;
 		
 		System.out.println("O valor de c é: " + c);
-  }
+  	}
 	
 }
