@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class PesquisaDeProdutos {
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+	Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o código do produto: ");
         int codigo = scanner.nextInt();
