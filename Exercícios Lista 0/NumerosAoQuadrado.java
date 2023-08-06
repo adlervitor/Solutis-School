@@ -8,6 +8,6 @@ public class NumerosAoQuadrado {
 			System.out.println("O quadrado de " + i + " eh: " + sqrt);
 		}
       
-  }
+  	}
 	
 }
